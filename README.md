@@ -262,7 +262,7 @@ just remove the cache one it means next-js by-default support the SSG type
 
 ## ------ Server and client components ----------
 ![alt text](image-8.png)
-
+![alt text](image-9.png)
 ### ----- Next.js API Endpoints details -----
 
 ### ✅ Next.js API Routes – Complete Guide
